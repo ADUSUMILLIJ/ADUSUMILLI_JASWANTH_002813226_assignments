@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/HealthCareEquipmentAdmin/ManageOrganizationJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/HealthCareEquipmentAdmin/ManageUserAccountJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Transportation/TransportationWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/SystemAdminWorkArea/SystemAdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/Model/EcoSystem.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Administration/ManagePanel_Organization.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/HealthCareEquipmentAdmin/ManageEmployeeJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_HospitalAdmin/WorkAreaPanel_Admin.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_HospitalAdmin/ManagePanel_Account.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Administration/WorkAreaPanel_Admin.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Doctor/Doctor_WorkArea.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/SystemAdminWorkArea/ManageEnterpriseAdminJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Doctor/HealthCareEquipmentManagementJpanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/Model/WorkQueue/Pharmacy_WorkRequest.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Doctor/PrescriptionJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_HospitalAdmin/ManagePanel_Organization.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/Model/DB4OUtil/DB4OUtil.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Transportation/ProcessRequestJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Administration/ManagePanel_Account.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_HospitalAdmin/ManagePanel_Employee.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Pharmacy/EntryPanel_Update.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Pharmacy/WorkAreaPanel_Pharmacy.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/SystemAdminWorkArea/ManageEnterpriseJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Supplier/WorkAreaPanel_Supplier.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/UserInterface/HCEquipStorage/HealthCareEquipmentWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/Model/Organization/RepositoryOrganization.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/Model/WorkQueue/Transportation_WorkRequest.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Pharmacy/RequestPanel_View.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/SystemAdminWorkArea/ManageNetworkJPanel.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Administration/ManagePanel_Employee.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/Role_Supplier/ManageWorkRequestPanel_Supplier.java</file>
+            <file>file:/C:/Users/jaswa/OneDrive/Documents/NetBeansProjects/Final-Project-AED-main/Cancer%20resources/src/UI/HealthCareEquipmentAdmin/AdminWorkAreaJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
